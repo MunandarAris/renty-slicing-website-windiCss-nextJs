@@ -2,7 +2,13 @@
 
 Hallo teman" 👋🏻, kali ini saya ingin membagikan hasil belajar slicing saya hasil dari belajar framework css yaitu Windi Css
 
+#### Progress website
+
+80%
+
 #### Lihat website disini
+
+https://renty.vercel.app/
 
 #### Design figma
 
