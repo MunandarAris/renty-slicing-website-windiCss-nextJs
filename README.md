@@ -2,9 +2,9 @@
 
 Hallo teman" 👋🏻, kali ini saya ingin membagikan hasil belajar slicing saya hasil dari belajar framework css yaitu Windi Css
 
-#### Lihat website disini ?
+#### Lihat website disini
 
-#### Design figma ?
+#### Design figma
 
 https://www.figma.com/file/jIYj38rSpbpW9t1tVifBbk/Figma-Template-01?node-id=2%3A2
 

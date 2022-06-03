@@ -4,11 +4,6 @@ export default function Document() {
   return (
     <Html>
       <Head>
-        {/* --- title --- */}
-        <title>Renty</title>
-        <link rel="icon" href="/favicon.ico" type="image/icon type" />
-        {/* --- end title --- */}
-
         {/* --- google font sora --- */}
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link

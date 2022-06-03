@@ -1,5 +1,6 @@
 // next js
 import dynamic from "next/dynamic";
+import Head from "next/head";
 
 // components
 const NavigationBar = dynamic(() =>
@@ -20,6 +21,13 @@ const Footer = dynamic(() => import("components/moleculs/Footer"));
 export default function HomePage() {
   return (
     <>
+      <Head>
+        {/* --- title --- */}
+        <title>Renty</title>
+        <link rel="icon" href="/favicon.ico" type="image/icon type" />
+        {/* --- end title --- */}
+      </Head>
+
       <div className="max-w-screen-lg m-auto">
         {/* --- navigation bar --- */}
         <NavigationBar />
